@@ -58,6 +58,8 @@ bytes = "1"
 colored ="2.0.0"
 encoding="*"
 rust-ini = {version ="*"}
+pkcs8 = "0.9.0"
+asn1 = "0.13.0"
 
 [dev-dependencies]
 paste = "1"
